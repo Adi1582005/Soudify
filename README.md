@@ -4,8 +4,6 @@ Soundify is a full-stack music streaming web application inspired by Spotify. It
 
 The project is built using the MERN stack, focusing on modern UI design, secure authentication, RESTful APIs, and efficient music management.
 
-<h2>Project Layout: </h2>
-
 
 🚀 Features
 
@@ -53,31 +51,6 @@ Backend
 - Multer
 - JWT (JSON Web Token)
 - Cookie Parser
-
-📂 Project Structure
-
-Soundify/
-│
-├── backend-app/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── config/
-│   └── server.js
-│
-├── spotify-frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── context/
-│   │   └── App.jsx
-│   └── package.json
-│
-└── README.md
-
-Note: Folder structure may vary depending on the final implementation.
 
 
 🔄 Application Workflow
